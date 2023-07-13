@@ -22,14 +22,16 @@
 
 🛠️ tools
   
-![pythn](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![pythn](https://img.shields.io/badge/python-3776AB?style=plastic.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![colab](https://img.shields.io/badge/googlecolab-F9AB00?style=plastic.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-000000?style=plastic.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
 📞contact
 
-[![velog](https://img.shields.io/badge/velog-2AA5DC.svg?&style=for-the-badge&logo=velog&logoColor=white
+[![velog](https://img.shields.io/badge/velog-2AA5DC?style=plastic.svg?&style=for-the-badge&logo=velog&logoColor=white
 )](https://velog.io/@saucer)
 
 </div>

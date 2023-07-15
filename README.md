@@ -5,7 +5,7 @@
 ---
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=3saucer)](https://solved.ac/3saucer)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=3saucer)](https://solved.ac/profile/3saucer)
 
 <br>
 
